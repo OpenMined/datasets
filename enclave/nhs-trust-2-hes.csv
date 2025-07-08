@@ -1,0 +1,12 @@
+id,source_system,record_id,record_type,year_of_birth,sex,imd_decile,region_code,event_date,encounter_type,primary_diagnosis_grp,length_of_stay_days,cost_gbp,bnf_chapter,item_count,prescription_cost_gbp
+8f3edc1b-e3b5-422c-9635-7929c685ca80,HES,e346c558-ec8d-48e9-8844-a4c84f139904,encounter,1963,M,3,LON,2024-09-14,A&E,XII,0,245,,,
+1b02bbc4-61a8-4ed6-b1e8-316aa3662dcc,HES,87efeab2-25de-4fc9-88c7-25bf9ca67a32,encounter,1957,M,3,SCO,2024-08-14,A&E,XXI,1,417,,,
+e38e65fc-a912-49be-aefb-53d5b86b6246,HES,ef12965b-9fce-4b38-b65b-59104f0ba1bf,encounter,1947,F,10,SEE,2025-01-28,Day Case,XX,0,368,,,
+0d724f00-2b66-4606-ba5d-36f4b30af1a7,HES,05ac1cc3-47f4-4561-a718-3d37866f58f8,encounter,1954,F,1,SEE,2025-03-27,Outpatient,XII,0,144,,,
+5315265b-5e1e-487e-bcd0-857b28d534bb,HES,ae7f23b6-9b67-4e8f-bec2-a676e3064c5d,encounter,1948,M,7,NWE,2025-05-27,A&E,VI,0,152,,,
+45871a7c-f2b4-4ce0-88f6-413ff755f1b4,HES,cbd009f5-f4b1-428a-b890-d116173c5057,encounter,1973,F,4,SCO,2024-04-28,Outpatient,XXI,0,145,,,
+b96bf903-aada-409a-8359-7e3d83fb4e3f,HES,a936dd73-c5ce-4a69-bcbc-c37ed32592f5,encounter,1969,M,10,NWE,2024-09-27,Outpatient,IV,0,114,,,
+4158f9ed-a17e-4188-af6a-5c273b34ed16,HES,1af48e38-f12c-4f1c-bf26-93bda5255512,encounter,1973,F,7,SEE,2025-01-02,Inpatient,XVI,7,3730,,,
+4158f9ed-a17e-4188-af6a-5c273b34ed16,HES,e1e33d9c-878e-43d3-b9e3-8d4f134cf9bd,encounter,1973,F,7,SEE,2024-06-08,Day Case,I,0,791,,,
+9aabce8a-843b-4f2e-84d2-5e0e26d43e83,HES,7206d89e-2f67-4d0e-b4ab-35805ca4b9be,encounter,1978,F,5,LON,2024-12-24,Outpatient,XII,0,224,,,
+a31f3fe9-6e39-407d-9e4e-1d45e91771fc,HES,ddcace9e-5e12-4205-8342-6f07f2c074e5,encounter,1959,F,2,NEE,2025-05-08,Day Case,VI,0,988,,,

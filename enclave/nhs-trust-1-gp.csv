@@ -1,0 +1,13 @@
+id,source_system,record_id,record_type,year_of_birth,sex,imd_decile,region_code,event_date,encounter_type,primary_diagnosis_grp,length_of_stay_days,cost_gbp,bnf_chapter,item_count,prescription_cost_gbp
+9e82397c-a554-4c27-a407-26b848fa36ad,GP_Record,d016f198-7113-463f-9877-733e3558b1de,encounter,1985,M,10,NEE,2024-09-13,Telehealth,VIII,0,21,,,
+8997c0ff-fb60-4908-a822-e80ca32a90ce,GP_Record,37e9dc3c-080e-43bd-992f-bc98384366ed,encounter,1980,M,6,MID,2025-02-14,Telehealth,XVII,0,20,,,
+c57eb941-4128-4200-b38d-c3a8abb6e5ab,GP_Record,f9e58c03-0732-4bdb-b314-feb725c07acd,encounter,1979,M,9,LON,2024-09-08,Telehealth,V,0,36,,,
+1cfd567e-d50e-4677-ac8d-53795458d200,GP_Record,04531ef6-cd41-47e6-baca-b62865cad7b8,encounter,1957,F,4,NEE,2025-01-26,Home_visit,XVIII,0,94,,,
+b5b92b7d-a1dd-4af7-87b0-db30008c0f4d,GP_Record,700ffcbe-35fb-41a3-ac60-d83f621dcd18,encounter,1963,F,8,SCO,2024-06-17,Home_visit,I,0,76,,,
+816b4bcf-9c18-4ae3-8861-f1f42c1fd1e4,GP_Record,52b09eb4-3643-4676-b380-8b90833561aa,encounter,1964,F,4,NWE,2024-09-24,Home_visit,XX,0,99,,,
+75347b1e-154f-4fea-8c68-24f3116995f4,GP_Record,ab7db3d6-77ae-465f-ade9-b5a024e7f775,encounter,1953,M,4,MID,2024-05-24,Nurse_appointment,II,0,41,,,
+3ecf7130-768f-421a-b915-c8e6502374d2,GP_Record,30d19c51-8287-415c-806e-232f6cd8d546,encounter,1981,M,4,SEE,2024-05-14,Nurse_appointment,XII,0,28,,,
+dd957a1c-40d5-433e-bb0e-2eb76a6276c1,GP_Record,cbee0b4f-fde1-4648-a78d-cbe79faed702,encounter,1965,F,9,SCO,2025-06-21,Nurse_appointment,VI,0,35,,,
+01d85df1-0ed7-4633-8620-2a57e0027d16,GP_Record,b6db6277-40f6-4f08-aa37-133fe15b63ce,encounter,1940,F,6,YOR,2024-03-14,Home_visit,V,0,75,,,
+82fa1360-595c-4b07-ae18-043a8ce8d329,GP_Record,a4da95e5-bdba-48cc-bd3b-50f277ab21db,encounter,1991,F,3,MID,2025-03-10,Nurse_appointment,XIV,0,26,,,
+b7ede4d4-99f8-4337-8d8b-1d1675508707,GP_Record,6477a95b-0275-4eed-9daa-b9c1ef74bbc8,encounter,2009,M,3,WES,2024-01-07,Telehealth,XX,0,44,,,

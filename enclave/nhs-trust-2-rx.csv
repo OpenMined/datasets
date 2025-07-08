@@ -1,0 +1,11 @@
+id,source_system,record_id,record_type,year_of_birth,sex,imd_decile,region_code,event_date,encounter_type,primary_diagnosis_grp,length_of_stay_days,cost_gbp,bnf_chapter,item_count,prescription_cost_gbp
+10ccde16-5923-40ac-97da-8d97f625831a,Rx_Database,067f624f-d908-416d-81c7-301a65b6c68a,prescription,2008,F,2,WES,2024-07-29,,,,,Musculoskeletal,15,40
+8c9b85ab-1970-4306-9508-42fb7afd3895,Rx_Database,55f75661-e298-4610-8d38-88a3da3fd43c,prescription,1952,M,1,SCO,2025-06-16,,,,,Cardiovascular,84,12
+10ccde16-5923-40ac-97da-8d97f625831a,Rx_Database,6f9860e5-7b51-431b-b6c6-4b48dd988b8d,prescription,2008,F,2,WES,2024-01-08,,,,,Gastrointestinal,53,6
+848f8f86-6463-4b2d-95ea-fa0b522ee6ed,Rx_Database,93d78ab8-2998-4061-9894-4ac4f64a77d7,prescription,1995,F,8,MID,2024-11-15,,,,,Infections,19,63
+8259b364-8a9b-4381-814e-2c86c09ee24b,Rx_Database,68c978a5-1335-4a63-be04-39551721d4f9,prescription,1971,M,5,SWE,2025-04-13,,,,,Obstetrics,51,46
+2a8dbc57-b190-48aa-868f-01c007df98fb,Rx_Database,e4e84180-bae6-4bdb-b56c-21bc57cffe31,prescription,1947,F,2,SEE,2025-06-14,,,,,Infections,13,31
+e4024772-71f8-4cfc-b09d-75b1d3219827,Rx_Database,992e5ae4-8648-41a1-8abe-8972dbb79910,prescription,1999,M,4,WES,2025-05-11,,,,,Musculoskeletal,16,19
+8c9b85ab-1970-4306-9508-42fb7afd3895,Rx_Database,4603a20b-dc59-4566-a301-ae82f9d7ad5c,prescription,1952,M,1,SCO,2025-06-11,,,,,Infections,8,20
+10ccde16-5923-40ac-97da-8d97f625831a,Rx_Database,2b13248d-6ab1-471e-ae21-3d1487781575,prescription,2008,F,2,WES,2024-06-11,,,,,Endocrine,71,17
+9b18c371-1140-4ec1-bc85-36ed2f3b5c2f,Rx_Database,2ea7e4ae-dad0-4444-a1e6-d767388d6364,prescription,2007,F,1,NEE,2024-11-16,,,,,Endocrine,57,33

@@ -1,0 +1,13 @@
+id,source_system,record_id,record_type,year_of_birth,sex,imd_decile,region_code,event_date,encounter_type,primary_diagnosis_grp,length_of_stay_days,cost_gbp,bnf_chapter,item_count,prescription_cost_gbp
+e4024772-71f8-4cfc-b09d-75b1d3219827,Rx_Database,ab156232-f4eb-4c6f-ad90-c7156626f530,prescription,1999,M,4,WES,2024-10-21,,,,,Respiratory,2,19
+1a05ccf8-5258-4d56-b6c8-5600de88565d,Rx_Database,e3c74e69-84de-4721-a697-a2af0795734d,prescription,1963,F,8,YOR,2024-07-22,,,,,Ear,40,44
+9b18c371-1140-4ec1-bc85-36ed2f3b5c2f,Rx_Database,1462e8d7-fafc-4f06-af0f-66920c4e8f4d,prescription,2007,F,1,NEE,2024-01-14,,,,,Eye,52,10
+0795b7a3-f617-4d75-9385-2224d4dec24d,Rx_Database,5fd101b8-4395-412c-9c6a-255757a0a024,prescription,1990,F,7,MID,2024-07-25,,,,,Gastrointestinal,36,6
+306ff24e-61b2-4ffc-a58b-eccbc9b81a79,Rx_Database,95e2d8d7-b0ca-4e90-b266-3501e6a03db4,prescription,1970,F,4,YOR,2024-03-11,,,,,Cardiovascular,67,34
+306ff24e-61b2-4ffc-a58b-eccbc9b81a79,Rx_Database,59353778-4e56-4f79-bf38-2d4fa6a0a9bb,prescription,1970,F,4,YOR,2025-06-05,,,,,Infections,14,19
+da16dec0-d93a-47a3-9b11-a618b37e8e33,Rx_Database,1ec46def-5cd5-4e14-8e4f-1e581c44ae49,prescription,1997,F,3,NWE,2024-03-13,,,,,Nervous System,76,72
+576a958b-54fa-4929-9fda-ff406843b7ee,Rx_Database,fe39222c-29a1-4a86-8ea1-27d1848a7448,prescription,1985,M,7,NWE,2024-05-01,,,,,Infections,7,36
+10ccde16-5923-40ac-97da-8d97f625831a,Rx_Database,45a11a23-36fa-4921-8ba0-6afe3ea6dc09,prescription,2008,F,2,WES,2024-04-07,,,,,Obstetrics,23,12
+10ccde16-5923-40ac-97da-8d97f625831a,Rx_Database,8233b4ee-1ffe-4e7b-8688-a3cd4d2b63b2,prescription,2008,F,2,WES,2024-11-19,,,,,Respiratory,1,38
+f1e5e5f3-5939-4a43-b6be-6157cd263e71,Rx_Database,dc602f07-cc62-4ef0-b839-2699f21aac93,prescription,1996,F,2,MID,2024-11-29,,,,,Anaesthesia,51,12
+9d23c137-4509-496b-bb06-43de04553f8e,Rx_Database,bd3517fd-5e02-4019-83b9-ea553e947717,prescription,1942,M,10,NWE,2024-06-12,,,,,Anaesthesia,50,20
