@@ -1,0 +1,9 @@
+date,region,product,quantity,price_per_unit
+2025-02-01,North,Apple,130,30
+2025-02-02,South,Banana,95,10
+2025-02-03,East,Orange,105,20
+2025-02-04,West,Apple,160,30
+2025-02-05,North,Banana,70,10
+2025-02-06,South,Apple,85,30
+2025-02-07,East,Orange,115,20
+
