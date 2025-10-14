@@ -1,0 +1,2 @@
+private_logs.parquet filter=lfs diff=lfs merge=lfs -text
+mock_logs.parquet filter=lfs diff=lfs merge=lfs -text
